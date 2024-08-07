@@ -3,5 +3,13 @@ body{
 }
 
 p{
-    text-align: justify;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
 }
